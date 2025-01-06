@@ -1,1 +1,1 @@
-# Projet Trombinoclock
+# Project Trombinoclock
